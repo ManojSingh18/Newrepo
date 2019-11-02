@@ -1,0 +1,1 @@
+Create table registerusers(cid number(2) not null,cname varchar2(20),ctype varchar2(20),city varchar2(20),fees number(20),pin number(6));
